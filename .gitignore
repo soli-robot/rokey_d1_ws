@@ -1,0 +1,9 @@
+build/
+*.db
+install/
+log/
+venv/
+**/__pycache__/
+*.pt
+.vscode/
+.vscode/

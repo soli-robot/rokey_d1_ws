@@ -1,0 +1,9 @@
+.vscode/
+
+yolov8*.pt
+build/
+install/
+log/
+venv/
+**/__pycache__
+*.pt
