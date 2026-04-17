@@ -1,0 +1,7 @@
+1. WEB CAM 인식 (CAR 발견 -> 터틀봇4 UNDOCK)
+2. 터틀봇4 NAV2로 RC카 근처로 주행
+3. 터틀봇4 CAM ON (CAR 찾기)
+4. CAR 발견 시 이동 -> CAR 근처로 도착 시 삐뽀삐뽀
+BONUS. CAR 움직이면 터틀봇이 따라가기
+
+
