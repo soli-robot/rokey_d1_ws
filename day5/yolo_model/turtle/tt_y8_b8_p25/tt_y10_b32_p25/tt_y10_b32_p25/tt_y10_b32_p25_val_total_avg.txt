@@ -1,0 +1,1 @@
+AVG Total Time: 8.21 ms/img
