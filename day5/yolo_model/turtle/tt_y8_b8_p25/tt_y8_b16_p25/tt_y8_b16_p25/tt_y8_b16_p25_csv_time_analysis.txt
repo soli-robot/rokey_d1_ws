@@ -1,0 +1,3 @@
+[ Train Report ]
+Final Epoch: 85
+Total: 126.42s
